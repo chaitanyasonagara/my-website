@@ -4,4 +4,4 @@ This is a really awesome website
 
 Now edit on update-readme branch
 
-Update locally
+Update maed on master branch on githug before rebase
